@@ -1,5 +1,5 @@
 import Debug.Trace
-import FinalExamF20
+import Posen330F20
 main = do
     putStrLn("\nPlease:")
     putStrLn("Read the rules at the top of FinalExamF20.hs")
