@@ -1,4 +1,4 @@
-module 330F20 where
+module Posen330F20 where
 
 {- You may NOT import any libraries to solve any of these, besides
    the Standard Prelude, which is loaded by default
